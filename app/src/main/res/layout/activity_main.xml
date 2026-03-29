@@ -43,6 +43,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Convert Now"/>
+    <Button
+        android:id="@+id/themeBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Toggle Theme"
+        android:layout_marginTop="10dp"/>
 
     <TextView
         android:id="@+id/resultText"
